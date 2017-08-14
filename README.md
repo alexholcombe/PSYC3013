@@ -37,7 +37,7 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 * "Testing visual acuity", a rough draft article written by Alex and posted in eLearning in his lectures folder
 * VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). The only mistake I've noticed in this is him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
 
-![Have you thanked your visual system today? It creates a model of what's out there, so you don't have to.](trappedInsideTheBrainSplotchesOfLightXKCD.png)
+* ![Have you thanked your visual system today? It creates a model of what's out there, so you don't have to.](trappedInsideTheBrainSplotchesOfLightXKCD.png)
 
 #### Optional
 * Fun regarding acuity relative to iphone resolution: http://blogs.discovermagazine.com/badastronomy/2010/06/10/resolving-the-iphone-resolution/
@@ -65,7 +65,7 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 * Time Warp on Discovery Channel [trailer](https://www.youtube.com/watch?v=X0-TbUUXDtM)
 * Holcombe (2009). Seeing slow and seeing fast: Two limits on perception. Trends in Cognitive Sciences.   On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 
-* Most people are hopelessly confused about temporal resolution, [like Vsauce in his 'What is video?' video](https://www.youtube.com/watch?annotation_id=annotation_2389778551&feature=iv&src_vid=4I5Q3UXkGd0&v=buSaywCF6E8) 
+* Most videos and writing you'll find on the internet is very confused about temporal resolution, [like Vsauce in his 'What is video?' video](https://www.youtube.com/watch?annotation_id=annotation_2389778551&feature=iv&src_vid=4I5Q3UXkGd0&v=buSaywCF6E8) 
     + "How fast does information travel from our eye to the brain?" <- that sounds like latency, but by frame rate he should be talking about rate, not latency.
     + He says: Because our brain holds information for 1/15th of a second, 15 fps will look nice and fluid. That doesn't follow, instead you'd expect to see sudden steps every 1/15th of a second. You wouldn't see any *gaps* because the brain would continue to show the last frame until the next frame, but it should still look stuttery.
     + "If frame rates get higher and higher, you end up with an image that can actually cause headaches when you watch it on a screen". I can't see how that can be true, and his explanation of it doesn't make sense. The brain doesn't "add in motion blur" to make things easier for you. Rather, motion blur is an automatic consequence of the photoreceptors recording the amount of light over an extended interval.
