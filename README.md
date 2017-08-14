@@ -1,7 +1,7 @@
 
 ## Signal Detection Theory
 
-* pp. 11-15 of Wolfe et al. Sensation and Perception 3rd edition, “Signal detection theory”
+* pp. 11-15 of Wolfe et al. *Sensation and Perception* 3rd edition, “Signal detection theory”
 
 * Blake & Sekuler, pp. 553-564, esp. 561-564. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 
