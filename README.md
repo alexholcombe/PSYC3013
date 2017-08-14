@@ -1,17 +1,18 @@
 
+## The Retina and blind spots
+
+* Wolfe et al. *Sensation and Perception* textbook chapters 1 and 2.
+
+* Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! Scientific American Mind, (May/June), 52–58. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013).
+Explains certain aspects of the retina by comparing it to digital cameras.
+
+
 ## Signal Detection Theory
 
 * pp. 11-15 of Wolfe et al. *Sensation and Perception* 3rd edition, “Signal detection theory”
 
-* Blake & Sekuler, pp. 553-564, esp. 561-564. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
+* Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 
-
-## The Retina, and conceptual introduction
-
-* Wolfe textbook chapter 1, 2
-
-* Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! Scientific American Mind, (May/June), 52–58. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013).
-Explains certain aspects of the retina by comparing it to digital cameras.
 
 #### Optional
 
