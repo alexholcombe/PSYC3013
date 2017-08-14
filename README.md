@@ -1,5 +1,5 @@
 
-## The Retina and blind spots
+## Lecture 8: The Retina and blind spots
 
 * Wolfe et al. *Sensation and Perception* textbook chapters 1 and 2.
 
@@ -7,7 +7,7 @@
 Explains certain aspects of the retina by comparing it to digital cameras.
 
 
-## Signal Detection Theory
+## Lecture 9: Signal Detection Theory
 
 * pp. 11-15 of Wolfe et al. *Sensation and Perception* 3rd edition, “Signal detection theory”
 
@@ -32,7 +32,7 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 
 * Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. Psychological Science In the Public Interest, 1(1), 1-26 (too long and difficult to be easily digestible).
 
-## Spatial resolution
+## Lectures 10, 11, 13: Spatial resolution
 
 * Humans have large individual differences in various visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
 * Wolfe textbook Chapter 3
@@ -45,7 +45,7 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 #### Optional
 * Fun regarding acuity relative to iphone resolution: http://blogs.discovermagazine.com/badastronomy/2010/06/10/resolving-the-iphone-resolution/
 
-## Touch
+## Lecture 12: Touch
 
 * “Chapter 2: Somatosensory systems” by Dougherty & Tsuchitani http://neuroscience.uth.tmc.edu/s2/chapter02.html
 * pp.221-5 of Wolfe textbook (3rd edition)
@@ -56,7 +56,7 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 #### Optional
 * A neuroscientific, poetic [essay on touch](https://aeon.co/essays/it-takes-neuroscience-and-poetry-to-map-the-tributaries-of-touch)
 
-## Temporal resolution
+## Lectures 14, 15: Temporal resolution
 
 * Persistence of vision [explained by Mr. Wizard](https://www.youtube.com/watch?v=YismwdgMIRc)
 * Blake & Sekuler Perception Excerpts p.331 on On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
