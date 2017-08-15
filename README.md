@@ -18,24 +18,25 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 
 * Ramachandran, V.S. “Filling in Gaps in Perception : Part I” Current Directions in Psychological Science, 1, No. 6 (Dec., 1992), pp. 199-205
 
-* http://xkcd.com/1080/ Fun illustration of visual field and idiosyncrasies of the retina. Although note that the cartoonist omitted or got wrong:
-    + Spatial scaling into periphery for night vision
+* http://xkcd.com/1080/ Fun illustration of visual field and idiosyncrasies of the retina. Although note the following shortcomings:
     + S-cone, rod scotomas omitted
     + Blood vessels omitted
-    + Macular pigment omitted (you don't need to know about that)
-    + Chromatic aberration omitted (you don't need to know about that)
+    + Spatial scaling into periphery for night vision is wrong (not severe enough)
+    + Macular pigment omitted (but you don't need to know about macular pigment)
+    + Chromatic aberration omitted (but you don't need to know about chromatic aberration)
 
 
 #### Optional
 
-* Useful, with links to more, [at Claremont Graduate University](http://wise.cgu.edu/wise-tutorials/tutorial-signal-detection-theory/signal-detection-vocabulary-2/)
+* [Useful SDT tutorial](http://wise.cgu.edu/wise-tutorials/tutorial-signal-detection-theory/signal-detection-vocabulary-2/), with links to more
 
-* Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. Psychological Science In the Public Interest, 1(1), 1-26 (too long and difficult to be easily digestible).
+
+* Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. *Psychological Science In the Public Interest*, 1(1), 1-26 (too long and difficult to be easily digestible).
 
 ## Lectures 10, 11, 13: Spatial resolution
 
 * Humans have large individual differences in various visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
-* Wolfe textbook Chapter 3
+* Wolfe et al. *Sensation and Perception* textbook chapter 3
 * Blake & Sekuler Perception excerpts pp. 95-99, 102-3, and p.331 on On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 * "Testing visual acuity", a rough draft article written by Alex and posted in eLearning in his lectures folder
 * VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). The only mistake I've noticed in this is him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
