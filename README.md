@@ -4,7 +4,7 @@
 * Wolfe et al. *Sensation and Perception* textbook chapters 1 and 2.
 
 * Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! Scientific American Mind, (May/June), 52–58. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013).
-Explains certain aspects of the retina by comparing it to digital cameras.
+Explains certain aspects of the retina by comparing the retina to digital cameras.
 
 
 ## Lecture 9: Signal Detection Theory
@@ -35,11 +35,11 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 
 ## Lectures 10, 11, 13: Spatial resolution
 
-* Humans have large individual differences in various visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
+* Side point: there are big differences between us in visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
 * Wolfe et al. *Sensation and Perception* textbook chapter 3
 * Blake & Sekuler Perception excerpts pp. 95-99, 102-3, and p.331 on On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 * "Testing visual acuity", a rough draft article written by Alex and posted in eLearning in his lectures folder
-* VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). The only mistake I've noticed in this is him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
+* VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). Only one mistake I've noticed in this: him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
 
 * ![Have you thanked your visual system today? It creates a model of what's out there, so you don't have to.](trappedInsideTheBrainSplotchesOfLightXKCD.png)
 
@@ -60,14 +60,14 @@ Explains certain aspects of the retina by comparing it to digital cameras.
 ## Lectures 14, 15: Temporal resolution
 
 * Persistence of vision [explained by Mr. Wizard](https://www.youtube.com/watch?v=YismwdgMIRc)
-* Blake & Sekuler Perception Excerpts p.331 on On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
+* Blake & Sekuler *Perception* Excerpts p.331 on On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 * Holcombe blog post. [“Explaining temporal resolution with waterworks”](http://bit.ly/m3eVSu)
 * Holcombe (2011) ["Hold your horses- News just in on the speed of sight"](http://theconversation.edu.au/hold-your-horses-news-just-in-on-the-speed-of-sight-760)
 
 #### Optional
 
-* Time Warp on Discovery Channel [trailer](https://www.youtube.com/watch?v=X0-TbUUXDtM)
-* Holcombe (2009). Seeing slow and seeing fast: Two limits on perception. Trends in Cognitive Sciences.   On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
+* *Time Warp* on the Discovery Channel - [trailer](https://www.youtube.com/watch?v=X0-TbUUXDtM)
+* Holcombe (2009). Seeing slow and seeing fast: Two limits on perception. *Trends in Cognitive Sciences*.   On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 
 * Most videos and writing you'll find on the internet are very confused about temporal resolution. An example is [Vsauce in his 'What is video?' video](https://www.youtube.com/watch?annotation_id=annotation_2389778551&feature=iv&src_vid=4I5Q3UXkGd0&v=buSaywCF6E8). Considering the errors can help you understand the subtleties: 
     + "How fast does information travel from our eye to the brain?" <- that sounds like latency, but by frame rate he should be talking about rate, not latency.
