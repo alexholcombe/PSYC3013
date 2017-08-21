@@ -18,7 +18,6 @@ Explains certain features of the retina by comparing it to digital cameras.
     + Chromatic aberration omitted (but you don't need to know about chromatic aberration)
 
 
-
 ## Lecture 9: Signal Detection Theory
 
 * pp. 11-15 of Wolfe et al. *Sensation and Perception* 3rd edition, “Signal detection theory”
