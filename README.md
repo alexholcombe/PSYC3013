@@ -3,8 +3,20 @@
 
 * Wolfe et al. *Sensation and Perception* textbook chapters 1 and 2.
 
-* Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! Scientific American Mind, (May/June), 52–58. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013).
-Explains certain aspects of the retina by comparing the retina to digital cameras.
+* Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013).
+Explains certain features of the retina by comparing it to digital cameras.
+
+#### Optional
+
+* Ramachandran, V.S. “Filling in Gaps in Perception : Part I” *Current Directions in Psychological Science*, 1(6) (Dec., 1992), pp. 199-205
+
+* http://xkcd.com/1080/ Fun illustration of visual field and idiosyncrasies of the retina. Although note the following shortcomings:
+    + S-cone, rod scotomas omitted
+    + Blood vessels omitted
+    + Spatial scaling into periphery for night vision is wrong (not severe enough)
+    + Macular pigment omitted (but you don't need to know about macular pigment)
+    + Chromatic aberration omitted (but you don't need to know about chromatic aberration)
+
 
 
 ## Lecture 9: Signal Detection Theory
@@ -13,17 +25,6 @@ Explains certain aspects of the retina by comparing the retina to digital camera
 
 * Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 
-
-#### Optional
-
-* Ramachandran, V.S. “Filling in Gaps in Perception : Part I” Current Directions in Psychological Science, 1, No. 6 (Dec., 1992), pp. 199-205
-
-* http://xkcd.com/1080/ Fun illustration of visual field and idiosyncrasies of the retina. Although note the following shortcomings:
-    + S-cone, rod scotomas omitted
-    + Blood vessels omitted
-    + Spatial scaling into periphery for night vision is wrong (not severe enough)
-    + Macular pigment omitted (but you don't need to know about macular pigment)
-    + Chromatic aberration omitted (but you don't need to know about chromatic aberration)
 
 
 #### Optional
