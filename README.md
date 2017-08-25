@@ -25,8 +25,9 @@ Explains certain features of the retina by comparing it to digital cameras.
 * Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
 
 
-
 #### Optional
+
+* [Video lecture](https://www.youtube.com/watch?v=gRQmTp6W3UA) - Signal Detection Theory by Dr. Boaz Ben David 
 
 * [Useful SDT tutorial](http://wise.cgu.edu/wise-tutorials/tutorial-signal-detection-theory/signal-detection-vocabulary-2/), with links to more
 
