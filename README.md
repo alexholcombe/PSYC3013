@@ -31,6 +31,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 
 * [Useful SDT tutorial](http://wise.cgu.edu/wise-tutorials/tutorial-signal-detection-theory/signal-detection-vocabulary-2/), with links to more
 
+* [Understanding z-scores](https://docs.google.com/presentation/d/1sPsRX_07k06j741RToPGsBjMARXRnJ4QXKZYlh9gM3I/edit#slide=id.g1b03eabb46_0_7) slides by Nicole Somebody.
 
 * Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. *Psychological Science In the Public Interest*, 1(1), 1-26 (too long and difficult to be easily digestible).
 
