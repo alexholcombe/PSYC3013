@@ -1,3 +1,4 @@
+(This page is occasionally updated as the lectures proceed)
 
 ## Lecture 8: The Retina and blind spots
 
@@ -44,7 +45,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 * VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). Only one mistake I've noticed in this: him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
 
 <!-- * ![Have you thanked your visual system today? It creates a model of what's out there, so you don't have to.](trappedInsideTheBrainSplotchesOfLightXKCD.png)
--->/
+-->
 
 #### Optional
 
@@ -54,9 +55,9 @@ Explains certain features of the retina by comparing it to digital cameras.
 
 ## Lecture 12: Touch
 
-* “Chapter 2: Somatosensory systems” by Dougherty & Tsuchitani http://neuroscience.uth.tmc.edu/s2/chapter02.html
+* [“Chapter 2: Somatosensory systems”](http://neuroscience.uth.tmc.edu/s2/chapter02.html) by Dougherty & Tsuchitani 
 * pp.221-5 of Wolfe textbook (3rd edition)
-* “The comb illusion” http://alexholcombe.wordpress.com/?p=1233
+* [The comb illusion]()
 <!--* Pain chapter, pp. 209-13, Purves et al., Neuroscience, Sinauer. On e-reserve-->
 * Wolfe textbook chapter 13 (Touch)
 
