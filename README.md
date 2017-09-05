@@ -1,6 +1,6 @@
 (This page is occasionally updated as the lectures proceed)
 
-## Lecture 8: The Retina and blind spots
+## Alex's Lecture 1: The Retina and blind spots
 
 * Wolfe et al. *Sensation and Perception* textbook chapters 1 and 2.
 
@@ -19,7 +19,7 @@ Explains certain features of the retina by comparing it to digital cameras.
     + Chromatic aberration omitted (but you don't need to know about chromatic aberration)
 
 
-## Lecture 9: Signal Detection Theory
+## Alex's Lecture 2: Signal Detection Theory
 
 * pp. 11-15 of Wolfe et al. *Sensation and Perception* 3rd edition, “Signal detection theory”
 
@@ -36,7 +36,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 
 * Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. *Psychological Science In the Public Interest*, 1(1), 1-26 (too long and difficult to be easily digestible).
 
-## Lectures 10, 11, 13: Spatial resolution
+## Alex's Lectures 3, 4, 6.5->7.0: Spatial resolution
 
 * Side point: there are big differences between us in visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
 * Wolfe et al. *Sensation and Perception* textbook chapter 3
@@ -53,7 +53,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 
 * Fun regarding acuity relative to iphone resolution: http://blogs.discovermagazine.com/badastronomy/2010/06/10/resolving-the-iphone-resolution/
 
-## Lecture 12: Touch
+## Alex's lecture 5 -> 6.5: Touch
 
 * [“Chapter 2: Somatosensory systems”](http://neuroscience.uth.tmc.edu/s2/chapter02.html) by Dougherty & Tsuchitani 
 * pp.221-5 of Wolfe textbook (3rd edition)
@@ -64,7 +64,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 #### Optional
 * A neuroscientific, poetic [essay on touch](https://aeon.co/essays/it-takes-neuroscience-and-poetry-to-map-the-tributaries-of-touch)
 
-## Lectures 14, 15: Temporal resolution
+## Alex's lectures 7, 8: Temporal resolution
 
 * Persistence of vision [explained by Mr. Wizard](https://www.youtube.com/watch?v=YismwdgMIRc)
 * Blake & Sekuler *Perception* Excerpts p.331 on On [unit of study e-reserve](http://opac.library.usyd.edu.au/search/r?SEARCH=PSYC3013)
