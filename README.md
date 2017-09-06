@@ -62,6 +62,8 @@ Explains certain features of the retina by comparing it to digital cameras.
 * Wolfe textbook chapter 13 (Touch)
 
 #### Optional
+
+* ["Machines still lack a critical elmement... sense of touch"](https://www.nytimes.com/2014/09/02/science/robot-touch.html?mcubz=0&_r=0)
 * A neuroscientific, poetic [essay on touch](https://aeon.co/essays/it-takes-neuroscience-and-poetry-to-map-the-tributaries-of-touch)
 
 ## Alex's lectures 7, 8: Temporal resolution
