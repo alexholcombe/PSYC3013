@@ -2,7 +2,7 @@
 
 ## Alex's Lecture 1: The Retina and blind spots
 
-* Wolfe et al. *Sensation and Perception* textbook chapters 1 and 2.
+* 10th or 3rd edition *Sensation and Perception* textbook chapters 1 and 2.
 
 * Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58. On e-reserve (on Canvas).
 Explains certain features of the retina by comparing it to digital cameras.
@@ -21,7 +21,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 
 ## Alex's Lecture 2: Signal Detection Theory
 
-* pp. 11-15 of Wolfe et al. *Sensation and Perception* 3rd edition, “Signal detection theory”
+* Appendix D of *Sensation and Perception* 10th edition, “Signal detection theory”, on Canvas
 
 * Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On e-reserve (on Canvas)
 
@@ -39,7 +39,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 ## Alex's Lectures 3, 4, 6.5->7.0: Spatial resolution
 
 * Side point: there are big differences between us in visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
-* Wolfe et al. *Sensation and Perception* textbook chapter 3
+* 10th edition or 3rd edition *Sensation and Perception* textbook chapter 3
 * Blake & Sekuler Perception excerpts pp. 95-99, 102-3, and p.331 on e-reserve (on Canvas).
 
 * VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). Only one mistake I've noticed in this: him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
