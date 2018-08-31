@@ -49,7 +49,7 @@ Explains certain features of the retina by comparing it to digital cameras.
 
 #### Optional
 
-* "Testing visual acuity", a rough draft article written by Alex and posted in eLearning in his lectures folder
+* "Seeing far", an essay by Alex, posted on Canvas
 
 * Fun regarding acuity relative to iphone resolution: http://blogs.discovermagazine.com/badastronomy/2010/06/10/resolving-the-iphone-resolution/
 
