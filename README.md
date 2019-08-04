@@ -48,7 +48,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 #### Optional
 
-* ![Seeing far](SeeingFarPSYC3013_2019.docx), an essay by Alex, posted on Canvas
+* [Seeing far](SeeingFarPSYC3013_2019.docx), an essay by Alex, posted on Canvas
 
 * Fun regarding acuity relative to iphone resolution: http://blogs.discovermagazine.com/badastronomy/2010/06/10/resolving-the-iphone-resolution/
 
