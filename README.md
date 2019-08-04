@@ -55,9 +55,9 @@ Explains certain features of the retina by comparing it to digital cameras.
 
 ## Alex's lecture 5 -> 6.5: Touch
 
-* [“Chapter 2: Somatosensory systems”](http://neuroscience.uth.tmc.edu/s2/chapter02.html) by Dougherty & Tsuchitani 
+* [“Chapter 2: Somatosensory systems”](https://nba.uth.tmc.edu/neuroscience/m/s2/chapter02.html) by Dougherty & Tsuchitani 
 * pp.221-5 of Wolfe textbook (3rd edition)
-* [The comb illusion]()
+* [The comb illusion](https://alexholcombe.wordpress.com/2014/07/16/tactile-perception-demonstration-the-comb-illusion/)
 <!--* Pain chapter, pp. 209-13, Purves et al., Neuroscience, Sinauer. On e-reserve-->
 * Wolfe textbook chapter 13 (Touch)
 
