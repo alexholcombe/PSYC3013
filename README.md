@@ -40,7 +40,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 * *Sensation and Perception* textbook (10th edition or 3rd edition) chapter 3
 * *Perception* by Blake & Sekuler excerpts pp. 95-99, 102-3, and p.331 on e-reserve (on Canvas).
-* Side point: there are big differences between us in visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
+* [Seeing far](SeeingFarPSYC3013_2019.docx), an essay by Alex.
 * VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). Only one mistake I've noticed in this: him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
 
 <!-- * ![Have you thanked your visual system today? It creates a model of what's out there, so you don't have to.](trappedInsideTheBrainSplotchesOfLightXKCD.png)
@@ -48,8 +48,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 #### Optional
 
-* [Seeing far](SeeingFarPSYC3013_2019.docx), an essay by Alex, posted on Canvas
-
+* Side point: there are big differences between us in visual abilities, e.g. [face recognition](http://www.newyorker.com/magazine/2016/08/22/londons-super-recognizer-police-force?mbid=social_twitter)
 * Fun regarding acuity relative to iphone resolution: http://blogs.discovermagazine.com/badastronomy/2010/06/10/resolving-the-iphone-resolution/
 
 ## Alex's lecture 5 -> 6.5: Touch
