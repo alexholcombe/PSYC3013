@@ -2,16 +2,16 @@
 
 ## Alex's Lecture 1: The Retina and blind spots
 
-* 10th or 3rd edition *Sensation and Perception* textbook chapters 1 and 2.
+* *Sensation and Perception* textbook (10th or 3rd edition) chapters 1 and 2.
 
-* Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58. On e-reserve (on Canvas).
-Explains certain features of the retina by comparing it to digital cameras.
+* Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58. Available on Canvas.
+Explains some features of the retina by comparing it to digital cameras.
 
 #### Optional
 
-* Ramachandran, V.S. “Filling in Gaps in Perception : Part I” *Current Directions in Psychological Science*, 1(6) (Dec., 1992), pp. 199-205. On e-reserve (on Canvas).
+* Ramachandran, V.S. “Filling in Gaps in Perception : Part I” *Current Directions in Psychological Science*, 1(6) (Dec., 1992), pp. 199-205. [PDF](https://journals.sagepub.com/doi/pdf/10.1111/1467-9566.ep10770411?casa_token=gk-nAnLdrIEAAAAA:VgV4uYxaAPDJry3c9grbUrBdHy_W5xPuEYRRnGhhBussFk0zOITezSMc2-rQNknjO3-bW828l-wyRcs)
 
-* http://xkcd.com/1080/ Fun illustration of visual field and idiosyncrasies of the retina. Although note the following shortcomings of the cartoon:
+* [Fun illustration](http://xkcd.com/1080/) of visual field and idiosyncrasies of the retina. Although note the following shortcomings of the picture, no doubt due to the creator not being a vision scientist:
     + S-cone, rod scotomas omitted
     + Blood vessels omitted
     + Spatial scaling into periphery for night vision is wrong (not severe enough)
