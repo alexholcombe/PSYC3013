@@ -21,7 +21,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 ## Alex's Lecture 2: Signal Detection Theory
 
-* [Appendix D of *Sensation and Perception* 10th edition, “Signal detection theory”](AppendixD_Sensation_Perception_10th_edition_Signal_detection_theory.pdf)
+* [Appendix D](AppendixD_Sensation_Perception_10th_edition_Signal_detection_theory.pdf) of *Sensation and Perception* 10th edition, “Signal detection theory”
 
 * Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On e-reserve (on Canvas)
 
@@ -33,6 +33,8 @@ Explains some features of the retina by comparing it to digital cameras.
 * [Useful SDT tutorial](http://wise.cgu.edu/wise-tutorials/tutorial-signal-detection-theory/signal-detection-vocabulary-2/), with links to more
 
 * [Understanding z-scores](https://docs.google.com/presentation/d/1sPsRX_07k06j741RToPGsBjMARXRnJ4QXKZYlh9gM3I/edit#slide=id.g1b03eabb46_0_7) slides by Nicole Somebody.
+
+* Wolfe 2013 textbook [pages 11 to 15](SDT_Wolfe(2013).pdf)
 
 * Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. *Psychological Science In the Public Interest*, 1(1), 1-26.  Too long and difficult to be easily digestible, but pretty cool if you're interested.
 
