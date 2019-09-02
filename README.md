@@ -23,7 +23,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 * [Appendix D](AppendixD_Sensation_Perception_10th_edition_Signal_detection_theory.pdf) of *Sensation and Perception* 10th edition, “Signal detection theory”
 
-* Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On e-reserve (on Canvas)
+* Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On e-reserve (on Canvas) (As of 2 Sep, waiting for the course coordinator to activate e-reserve)
 
 
 #### Optional
