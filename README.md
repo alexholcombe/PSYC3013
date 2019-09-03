@@ -70,7 +70,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 ## Alex's lectures 7, 8: Temporal resolution
 
-* Persistence of vision [explained by Mr. Wizard](https://www.youtube.com/watch?v=YismwdgMIRc)
+* Persistence of vision [explained by Mr. Wizard](https://www.youtube.com/watch?v=YismwdgMIRc). However, at [1:17](http://www.youtube.com/watch?v=YismwdgMIRc&t=1m17s) he says "Well if it takes a tenth of a second for each of those images to be registered on your brain, what happens if I spin it faster than a tenth of a second?... You'll see both of them; your brain will combine the two". However taking a tenth of a second to be "registered on the brain" sounds like latency, but what makes your brain combine the two is not how long it takes to reach the brain, but rather how long the signals persist in the brain, which is about temporal resolution, not latency.
 * Blake & Sekuler *Perception* Excerpts p.331 on e-reserve (on Canvas)
 * Holcombe blog post. [“Explaining temporal resolution with waterworks”](http://bit.ly/m3eVSu)
 * Holcombe (2011) ["Hold your horses- News just in on the speed of sight"](http://theconversation.edu.au/hold-your-horses-news-just-in-on-the-speed-of-sight-760)
