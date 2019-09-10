@@ -65,7 +65,7 @@ Explains some features of the retina by comparing it to digital cameras.
 #### Optional
 
 * *Time Warp* on the Discovery Channel - [trailer](https://www.youtube.com/watch?v=X0-TbUUXDtM)
-* Holcombe (2009). Seeing slow and seeing fast: Two limits on perception. *Trends in Cognitive Sciences*.   On e-reserve (on Canvas).
+* Holcombe (2009). [Seeing slow and seeing fast: Two limits on perception.](Holcombe2009Seeing_slow_and_seeing_fast.pdf) *Trends in Cognitive Sciences*.   
 
 * Most videos and writing you'll find on the internet are very confused about temporal resolution. An example is [Vsauce in his 'What is video?' video](https://www.youtube.com/watch?annotation_id=annotation_2389778551&feature=iv&src_vid=4I5Q3UXkGd0&v=buSaywCF6E8). Considering the errors can help you understand the subtleties: 
     + "How fast does information travel from our eye to the brain?" <- that sounds like latency, but by frame rate he should be talking about rate, not latency.
