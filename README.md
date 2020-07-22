@@ -23,8 +23,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 * [Appendix D](AppendixD_Sensation_Perception_10th_edition_Signal_detection_theory.pdf) of *Sensation and Perception* 10th edition, “Signal detection theory”
 
-* Blake & Sekuler textbook excerpt: pp. 553-564, esp. 561-564. On e-reserve (on Canvas) (As of 2 Sep, waiting for the course coordinator to activate e-reserve)  
-
+* Blake & Sekuler textbook [excerpt](SDT_Sekuler&Blake(2002).pdf): pp. 553-564, esp. 561-564. 
 
 #### Optional
 
@@ -42,7 +41,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 ## Alex's Lectures 3, 4, 5->5.3: Spatial resolution
 
-* *Perception* by Blake & Sekuler [excerpts](libraryScanOfPerceptionByBlakeSekuler2006SpatialResolutionStuffPp95to99_102to103_and331.pdf) about sensitivity vs. resolution, visual acuity, and blinking, winking, and flickering.
+* *Perception* by Blake & Sekuler [excerpts](libraryScanOfPerceptionByBlakeSekuler2006SpatialResolutionStuffPp95to99_102to103_and331.pdf) about sensitivity vs. resolution, visual acuity, and blinking, winking, and flickering. <!-- I have the whole textbook in the Readings folder -->
 * [Seeing far](SeeingFarPSYC3013_2019.docx), an essay by Alex.
 * *Sensation and Perception* textbook (10th edition or 3rd edition) chapter 3
 * VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). Only one mistake I've noticed in this: him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
