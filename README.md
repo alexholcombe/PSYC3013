@@ -2,7 +2,7 @@
 
 ## Alex's Lecture 1: The Retina and blind spots
 
-* *Sensation and Perception* textbook (10th or 3rd edition) chapters 1 and 2.
+* *Sensation and Perception* textbook by Goldstein (10th or 3rd edition) chapters 1 and 2.
 
 * Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58. Available on Canvas.
 Explains some features of the retina by comparing it to digital cameras.
@@ -21,7 +21,7 @@ Explains some features of the retina by comparing it to digital cameras.
 
 ## Alex's Lecture 2: Signal Detection Theory
 
-* [Appendix D](AppendixD_Sensation_Perception_10th_edition_Signal_detection_theory.pdf) of *Sensation and Perception* 10th edition, “Signal detection theory”
+* [Appendix D](AppendixD_Sensation_Perception_10th_edition_Signal_detection_theory.pdf) of Goldstein's *Sensation and Perception* 10th edition, “Signal detection theory”
 
 * Blake & Sekuler textbook [excerpt](SDT_Sekuler&Blake(2002).pdf): pp. 553-564, esp. 561-564. 
 
