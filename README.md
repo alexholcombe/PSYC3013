@@ -4,14 +4,14 @@
 
 * *Sensation and Perception* textbook by Goldstein (10th or 3rd edition) chapters 1 and 2.
 
-* Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58. Available on Canvas.
+* [Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58](readingsFiles/StiefelHolcombe2014.pdf).
 Explains some features of the retina by comparing it to digital cameras.
 
 #### Optional
 
 * Ramachandran, V.S. “Filling in Gaps in Perception : Part I” *Current Directions in Psychological Science*, 1(6) (Dec., 1992), pp. 199-205. [PDF](https://journals.sagepub.com/doi/pdf/10.1111/1467-9566.ep10770411?casa_token=gk-nAnLdrIEAAAAA:VgV4uYxaAPDJry3c9grbUrBdHy_W5xPuEYRRnGhhBussFk0zOITezSMc2-rQNknjO3-bW828l-wyRcs)
 
-* [Fun illustration](http://xkcd.com/1080/) of visual field and idiosyncrasies of the retina. Although note the following shortcomings of the picture, no doubt due to the creator not being a vision scientist:
+* [Fun illustration](http://xkcd.com/1080/) of visual field and idiosyncrasies of the retina. Although note the pictures has some shortcomings, unsurprising because the creator was not a vision scientist. Shortcomings: 
     + S-cone, rod scotomas omitted
     + Blood vessels omitted
     + Spatial scaling into periphery for night vision is wrong (not severe enough)
@@ -45,7 +45,7 @@ Explains some features of the retina by comparing it to digital cameras.
 * [Seeing far](SeeingFarPSYC3013_2019.docx), an essay by Alex.
 * [Basic Vision by Snowden et al. pp.113-118](SnowdenBasicVision113to118contrastSensitivityFunction.pdf) on the contrast sensitivity function
 * *Sensation and Perception* Goldstein textbook (10th edition or 3rd edition) chapter 3
-* VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s). Only one mistake I've noticed in this: him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
+* VSauce's [The Resolution of the Eye](https://www.youtube.com/watch?v=4I5Q3UXkGd0&t=330s).  I've only noticed one mistake (which is unusual for perception youtube videos): him speaking as if viewing distance doesn't matter for the calculation of how many pixels are needed.
 
 <!-- * ![Have you thanked your visual system today? It creates a model of what's out there, so you don't have to.](trappedInsideTheBrainSplotchesOfLightXKCD.png)
 -->
