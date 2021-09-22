@@ -85,6 +85,7 @@ Explains some features of the retina by comparing it to digital cameras.
 * ["Machines still lack a critical elmement... sense of touch"](https://www.nytimes.com/2014/09/02/science/robot-touch.html?mcubz=0&_r=0)
 * A neuroscientific, poetic [essay on touch](https://aeon.co/essays/it-takes-neuroscience-and-poetry-to-map-the-tributaries-of-touch)
 
+<!--
 ## Alex's lecture 9: Object-based vision and high-level temporal resolution
 
 #### Optional
@@ -92,4 +93,4 @@ Explains some features of the retina by comparing it to digital cameras.
 * The draft [speed and time chapter](https://tracking.whatanimalssee.com/speedAndTime.html#temporal-limits) of Holcombe (2022). Tracking moving objects. Cambridge University Press.
 
 (This page is occasionally updated as the lectures proceed)
-
+-->
