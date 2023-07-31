@@ -1,11 +1,11 @@
-[This page](https://alexholcombe.github.io/PSYC3013/) may be updated as the lectures proceed.
+As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3013/) may be updated.
 
-## Alex's Lecture 1: The Retina and blind spots
+## Alex's Lecture 1: The retina and blind spots
 
 * *Sensation and Perception* textbook by Goldstein (10th or 3rd edition) chapters 1 and 2.
 
-* [Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58](readingsFiles/StiefelHolcombe2014.pdf).
-Explains some features of the retina by comparing it to digital cameras.
+* Learn about some features of the retina through a comparison to digital cameras: [Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58](readingsFiles/StiefelHolcombe2014.pdf).
+
 
 #### Optional
 
