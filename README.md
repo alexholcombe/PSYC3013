@@ -29,7 +29,11 @@ As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3
 
 #### Optional
 
-* [Video lecture](https://www.youtube.com/watch?v=gRQmTp6W3UA) - Signal Detection Theory by Dr. Boaz Ben David 
+* [Video lecture](https://www.youtube.com/watch?v=gRQmTp6W3UA) - Signal Detection Theory by Dr. Boaz Ben David
+
+* [Overlapping gaussians] with interactive slider showing how hits and false alarms change with changes in sensitivity and criterion.
+
+* A [tutorial](https://elvers.us/perception/sdtCalculator/) that walks you through calculating the sensitivity and the criterion from the probability of a hit and the probability of a false alarm.
 
 * [Useful SDT tutorial](http://wise.cgu.edu/wise-tutorials/tutorial-signal-detection-theory/signal-detection-vocabulary-2/), with links to more
 
@@ -39,7 +43,7 @@ As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3
 
 * Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. *Psychological Science In the Public Interest*, 1(1), 1-26.  Too long and difficult to be easily digestible, but pretty cool if you're interested.
 
-* Wixted, J. (2019) The forgotten history of signal detection theory. [pdf](http://wixtedlab.ucsd.edu/publications/wixted2019/The_Forgotten_History_of_Signal_Detection_Theory.pdf). Warning: contains math.
+* Wixted, J. (2019) The forgotten history of signal detection theory. [pdf](http://wixtedlab.ucsd.edu/publications/wixted2019/The_Forgotten_History_of_Signal_Detection_Theory.pdf). (contains math, too advanced for some)
 
 
 ## Alex's Lectures 3, 4 <!--4 to 4.3-->: Spatial resolution
@@ -62,14 +66,18 @@ As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3
 
 * Persistence of vision [explained by Mr. Wizard](https://www.youtube.com/watch?v=YismwdgMIRc). However, at [1:17](http://www.youtube.com/watch?v=YismwdgMIRc&t=1m17s) he says "Well if it takes a tenth of a second for each of those images to be registered on your brain, what happens if I spin it faster than a tenth of a second?... You'll see both of them; your brain will combine the two". However taking a tenth of a second to be "registered on the brain" refers probably to latency, but what makes your brain combine the two is not how long it takes to reach the brain, but rather how long the signals persist in the brain, which is about temporal resolution, not latency.
 * Blake & Sekuler *Perception* p.331 of [excerpts](libraryScanOfPerceptionByBlakeSekuler2006SpatialResolutionStuffPp95to99_102to103_and331.pdf)
+* [Lips move too fast to see](https://www.youtube.com/watch?v=m1KM-hSm7AU)
 * Holcombe blog post. [“Explaining temporal resolution with waterworks”](http://bit.ly/m3eVSu)
 * Holcombe (2011) ["Hold your horses- News just in on the speed of sight"](http://theconversation.edu.au/hold-your-horses-news-just-in-on-the-speed-of-sight-760)
+* Relationship to perception of motion: ["Car wheels rotate backwards on TV, but do they ever in real life?" Eagleman video](https://www.youtube.com/watch?v=1e6xNY1DR7E&t=1198s)
+* Holcombe (2023) [Temporal limits on visual cognition](https://trackinglimits.whatanimalssee.com/speedAndTime.html#temporal-limits-on-visual-cognition)
+
 
 #### Optional
 
 * *Time Warp* on the Discovery Channel - [trailer](https://www.youtube.com/watch?v=X0-TbUUXDtM)
-* Holcombe (2009). [Seeing slow and seeing fast: Two limits on perception.](Holcombe2009Seeing_slow_and_seeing_fast.pdf) *Trends in Cognitive Sciences*.   
-
+* Holcombe (2009). [Seeing slow and seeing fast: Two limits on perception.](Holcombe2009Seeing_slow_and_seeing_fast.pdf) *Trends in Cognitive Sciences*.  
+* A [video by David Eagleman](https://www.youtube.com/watch?v=YM1xllWAbKw) which discusses the trade-off between rapid response time and temporal integration. 
 * Most videos and writing you'll find on the internet are very confused about temporal resolution. An example is [Vsauce in his 'What is video?' video](https://www.youtube.com/watch?annotation_id=annotation_2389778551&feature=iv&src_vid=4I5Q3UXkGd0&v=buSaywCF6E8). Considering the errors can help you understand the subtleties: 
     + "How fast does information travel from our eye to the brain?" <- that sounds like latency, but by frame rate he should be talking about rate, not latency.
     + He says: Because our brain holds information for 1/15th of a second, 15 fps will look nice and fluid. That doesn't follow, instead you'd expect to see sudden steps every 1/15th of a second. You wouldn't see any *gaps* because the brain would continue to show the last frame until the next frame, but it should still look stuttery.
