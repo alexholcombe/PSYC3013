@@ -2,7 +2,7 @@ As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3
 
 ## Alex's Lecture 1: The retina and blind spots
 
-* *Sensation and Perception* textbook by Goldstein (10th or 3rd edition) chapters 1 and 2.
+* *Sensation and Perception* textbook by Goldstein [chapters 1 (Introduction) and 2 (The Beginning of the Perceptual Process)](readingsFiles/chapters1and2ofGoldsteinSensationAndPerception2016.pdf).
 
 * Learn about some features of the retina through a comparison to digital cameras: [Stiefel, K., & Holcombe, A. O. (2014). EYES, CAMERA,  ACTION! *Scientific American Mind*, (May/June), 52–58](readingsFiles/StiefelHolcombe2014.pdf).
 
