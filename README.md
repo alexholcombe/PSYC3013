@@ -1,4 +1,4 @@
-As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3013/) may be updated.
+[The current page](https://alexholcombe.github.io/PSYC3013/) may be updated as the lectures proceed.
 
 ## Alex's Lecture 1: The retina and blind spots
 
@@ -41,7 +41,8 @@ As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3
 
 * Wolfe 2013 textbook [pages 11 to 15](SDT_Wolfe(2013).pdf)
 
-* Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological Science Can Improve Diagnostic Decisions. *Psychological Science In the Public Interest*, 1(1), 1-26.  Too long and difficult to be easily digestible, but pretty cool if you're interested.
+* Swets, J. A., Dawes, R. M., & Monahan, J. (2000). [Psychological Science Can Improve Diagnostic Decisions](
+https://doi.org/10.1111/1529-1006.) (get it from the library if paywalled). *Psychological Science In the Public Interest*, 1(1), 1-26.  Too long and difficult to be easily digestible, but pretty cool if you're interested.
 
 * Wixted, J. (2019) The forgotten history of signal detection theory. [pdf](http://wixtedlab.ucsd.edu/publications/wixted2019/The_Forgotten_History_of_Signal_Detection_Theory.pdf). (contains math, too advanced for some)
 
