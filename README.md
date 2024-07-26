@@ -31,7 +31,7 @@ As the lectures proceed, [the current page](https://alexholcombe.github.io/PSYC3
 
 * [Video lecture](https://www.youtube.com/watch?v=gRQmTp6W3UA) - Signal Detection Theory by Dr. Boaz Ben David
 
-* [Overlapping gaussians] with interactive slider showing how hits and false alarms change with changes in sensitivity and criterion.
+* [Overlapping gaussians](https://elvers.us/perception/sdtGraphic/) with interactive slider showing how hits and false alarms change with changes in sensitivity and criterion.
 
 * A [tutorial](https://elvers.us/perception/sdtCalculator/) that walks you through calculating the sensitivity and the criterion from the probability of a hit and the probability of a false alarm.
 
