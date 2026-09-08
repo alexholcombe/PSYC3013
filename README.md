@@ -29,7 +29,7 @@
 
 #### Optional
 
-* First 20 seconds of 
+* First 40 seconds of 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BEg29UuZk6c?si=FHTIKb7qUOpI1QQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
