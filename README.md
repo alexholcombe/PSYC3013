@@ -29,6 +29,10 @@
 
 #### Optional
 
+* First 20 seconds of 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BEg29UuZk6c?si=FHTIKb7qUOpI1QQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * [Video lecture](https://www.youtube.com/watch?v=gRQmTp6W3UA) - Signal Detection Theory by Dr. Boaz Ben David
 
 * [Overlapping gaussians](https://elvers.us/perception/sdtGraphic/) with interactive slider showing how hits and false alarms change with changes in sensitivity and criterion.
